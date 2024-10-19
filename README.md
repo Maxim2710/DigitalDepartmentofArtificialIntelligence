@@ -67,3 +67,12 @@
 | [6. Inverse document frequency](./contest_04/task6/6.py)        | ![](./img/python.png) |
 | [7. Индексы элементов в диапазоне](./contest_04/task7/7.py)     | ![](./img/python.png) |
 | [8. Последовательность действий](./contest_04/task8/8.py)       | ![](./img/python.png) |
+
+
+| [Контест 5](https://contest.yandex.ru/contest/69225/problems/) |                       |
+|----------------------------------------------------------------|:---------------------:|
+| [1. ЦК matplotlib. Задача 1](./contest_05/task1/1.py)          | ![](./img/python.png) |
+| [2. ЦК matplotlib. Задача 2](./contest_05/task2/2.py)          | ![](./img/python.png) |
+| [3. ЦК matplotlib. Задача 3](./contest_05/task3/3.py)          | ![](./img/python.png) |
+| [4. ЦК matplotlib. Задача 4](./contest_05/task4/4.py)          | ![](./img/python.png) |
+| [5. ЦК matplotlib. Задача 5](./contest_05/task5/5.py)          | ![](./img/python.png) |
