@@ -43,3 +43,16 @@
 | [14. Функция. Валидатор судоку](./contest_02/task14/14.py)                | ![](./img/python.png) |
 | [15. Актуальная профессия](./contest_02/task15/15.py)                     | ![](./img/python.png) |
 | [16. Простой кредитный скоринг](./contest_02/task16/16.py)                | ![](./img/python.png) |
+
+| [Контест 3](https://contest.yandex.ru/contest/68422/problems/)              |                       |
+|-----------------------------------------------------------------------------|:---------------------:|
+| [1. Функция. Произведение цифр](./contest_03/task1/1.py)                    | ![](./img/python.png) |
+| [2. Функция. Проверка на простоту (множественная)](./contest_03/task2/2.py) | ![](./img/python.png) |
+| [3. Генератор. Простое число](./contest_03/task3/3.py)                      | ![](./img/python.png) |
+| [4. Генератор. Ханойские башни](./contest_03/task4/4.py)                    | ![](./img/python.png) |
+| [5. Декоратор. Контроль доступа](./contest_03/task5/5.py)                   | ![](./img/python.png) |
+| [6. Декоратор. Переключатель расширений](./contest_03/task6/6.py)           | ![](./img/python.png) |
+| [7. Класс. Get a cat](./contest_03/task7/7.py)                              | ![](./img/python.png) |
+| [8. Класс. Менеджер](./contest_03/task8/8.py)                               | ![](./img/python.png) |
+| [9. Класс. Чайник](./contest_03/task9/9.py)                                 | ![](./img/python.png) |
+| [10. Класс. Point](./contest_03/task10/10.py)                               | ![](./img/python.png) |
