@@ -56,3 +56,14 @@
 | [8. Класс. Менеджер](./contest_03/task8/8.py)                               | ![](./img/python.png) |
 | [9. Класс. Чайник](./contest_03/task9/9.py)                                 | ![](./img/python.png) |
 | [10. Класс. Point](./contest_03/task10/10.py)                               | ![](./img/python.png) |
+
+| [Контест 4](https://contest.yandex.ru/contest/68855/problems/)  |                       |
+|-----------------------------------------------------------------|:---------------------:|
+| [1. Фильтр по пороговому значению](./contest_04/task1/1.py)     | ![](./img/python.png) |
+| [2. Замена чётных элементов в матрице](./contest_04/task2/2.py) | ![](./img/python.png) |
+| [3. Повышение резкости изображения](./contest_04/task3/3.py)    | ![](./img/python.png) |
+| [4. Среднеквадратичное отклонение](./contest_04/task4/4.py)     | ![](./img/python.png) |
+| [5. Нормирование векторов](./contest_04/task5/5.py)             | ![](./img/python.png) |
+| [6. Inverse document frequency](./contest_04/task6/6.py)        | ![](./img/python.png) |
+| [7. Индексы элементов в диапазоне](./contest_04/task7/7.py)     | ![](./img/python.png) |
+| [8. Последовательность действий](./contest_04/task8/8.py)       | ![](./img/python.png) |
